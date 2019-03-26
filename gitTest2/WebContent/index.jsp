@@ -33,14 +33,5 @@
 		<li>MySQL</li>
 		<li>MSSQL</li>
 	</ul>
-	<div class="footer">
-		이 영역은 footer영역입니다.
-	</div>
 </body>
 </html>
-
-
-
-
-
-
