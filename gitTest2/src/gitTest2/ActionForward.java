@@ -3,7 +3,7 @@ package gitTest2;
 public class ActionForward {
 	private String path;
 	private boolean isRedirect;
-	public AtcionForward(){}
+	public ActionForward(){}
 	
 	public String getPath() {
 		return path;
